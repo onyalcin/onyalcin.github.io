@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>conversational interaction | ÖNY</title>
+    <link>/tags/conversational-interaction/</link>
+      <atom:link href="/tags/conversational-interaction/index.xml" rel="self" type="application/rss+xml" />
+    <description>conversational interaction</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 01 Jul 2018 00:00:00 -0700</lastBuildDate>
+    <image>
+      <url>/img/portrait1</url>
+      <title>conversational interaction</title>
+      <link>/tags/conversational-interaction/</link>
+    </image>
+    
+    <item>
+      <title>M-Path: A Conversational System for the Empathic Virtual Agent</title>
+      <link>/publication/bica2019/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 -0700</pubDate>
+      <guid>/publication/bica2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

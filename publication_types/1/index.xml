@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | ÖNY</title>
+    <link>/publication_types/1/</link>
+      <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Jun 2020 00:00:00 -0700</lastBuildDate>
+    <image>
+      <url>/img/portrait1</url>
+      <title>1</title>
+      <link>/publication_types/1/</link>
+    </image>
+    
+    <item>
+      <title>Empathic AI Painter: A Computational Creativity System with Embodied Conversational Interaction</title>
+      <link>/publication/neurips2019/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 -0700</pubDate>
+      <guid>/publication/neurips2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A multi-layer artificial intelligence and sensing based affective conversational embodied agent</title>
+      <link>/publication/acii2019_2/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 -0700</pubDate>
+      <guid>/publication/acii2019_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Empathy in Artificial Agents</title>
+      <link>/publication/acii2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 -0700</pubDate>
+      <guid>/publication/acii2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Levels of Emotional Contagion with an Embodied Conversational Agent</title>
+      <link>/publication/cogsci2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 -0700</pubDate>
+      <guid>/publication/cogsci2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M-Path: A Conversational System for the Empathic Virtual Agent</title>
+      <link>/publication/bica2019/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 -0700</pubDate>
+      <guid>/publication/bica2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling empathy in embodied conversational agents</title>
+      <link>/publication/icmi2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 -0700</pubDate>
+      <guid>/publication/icmi2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Embodied Interactions with a Sufi Dhikr Ritual: Negotiating Privacy and Transmission of Intangible Cultural Heritage in Virtual Sama</title>
+      <link>/publication/eva2017-anon/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 -0700</pubDate>
+      <guid>/publication/eva2017-anon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Engagement with Artificial Intelligence through Natural Interaction Models</title>
+      <link>/publication/eva2017/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 -0700</pubDate>
+      <guid>/publication/eva2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtual AI Agent for Adults with Mental Health Issues</title>
+      <link>/publication/stanford2017/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 -0700</pubDate>
+      <guid>/publication/stanford2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

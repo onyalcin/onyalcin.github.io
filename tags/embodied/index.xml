@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Embodied | ÖNY</title>
+    <link>/tags/embodied/</link>
+      <atom:link href="/tags/embodied/index.xml" rel="self" type="application/rss+xml" />
+    <description>Embodied</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 27 Apr 2017 00:00:00 -0700</lastBuildDate>
+    <image>
+      <url>/img/portrait1</url>
+      <title>Embodied</title>
+      <link>/tags/embodied/</link>
+    </image>
+    
+    <item>
+      <title>ECA for Elderly</title>
+      <link>/project/eca_elder/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 -0700</pubDate>
+      <guid>/project/eca_elder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtual Humans</title>
+      <link>/project/virtual-humans/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 -0700</pubDate>
+      <guid>/project/virtual-humans/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

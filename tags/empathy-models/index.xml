@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>empathy models | ÖNY</title>
+    <link>/tags/empathy-models/</link>
+      <atom:link href="/tags/empathy-models/index.xml" rel="self" type="application/rss+xml" />
+    <description>empathy models</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Jul 2019 00:00:00 -0700</lastBuildDate>
+    <image>
+      <url>/img/portrait1</url>
+      <title>empathy models</title>
+      <link>/tags/empathy-models/</link>
+    </image>
+    
+    <item>
+      <title>Modeling empathy: building a link between affective and cognitive processes</title>
+      <link>/publication/ai_review/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 -0700</pubDate>
+      <guid>/publication/ai_review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

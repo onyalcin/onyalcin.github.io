@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>embodied conversational agents | ÖNY</title>
+    <link>/tags/embodied-conversational-agents/</link>
+      <atom:link href="/tags/embodied-conversational-agents/index.xml" rel="self" type="application/rss+xml" />
+    <description>embodied conversational agents</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Jul 2019 00:00:00 -0700</lastBuildDate>
+    <image>
+      <url>/img/portrait1</url>
+      <title>embodied conversational agents</title>
+      <link>/tags/embodied-conversational-agents/</link>
+    </image>
+    
+    <item>
+      <title>Evaluating Levels of Emotional Contagion with an Embodied Conversational Agent</title>
+      <link>/publication/cogsci2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 -0700</pubDate>
+      <guid>/publication/cogsci2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M-Path: A Conversational System for the Empathic Virtual Agent</title>
+      <link>/publication/bica2019/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 -0700</pubDate>
+      <guid>/publication/bica2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

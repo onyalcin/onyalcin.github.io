@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S Salevati | ÖNY</title>
+    <link>/authors/s-salevati/</link>
+      <atom:link href="/authors/s-salevati/index.xml" rel="self" type="application/rss+xml" />
+    <description>S Salevati</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 01 Sep 2017 00:00:00 -0700</lastBuildDate>
+    <image>
+      <url>/img/portrait1</url>
+      <title>S Salevati</title>
+      <link>/authors/s-salevati/</link>
+    </image>
+    
+    <item>
+      <title>Engagement with Artificial Intelligence through Natural Interaction Models</title>
+      <link>/publication/eva2017/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 -0700</pubDate>
+      <guid>/publication/eva2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Affective | ÖNY</title>
+    <link>/tags/affective/</link>
+      <atom:link href="/tags/affective/index.xml" rel="self" type="application/rss+xml" />
+    <description>Affective</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 04 Apr 2020 00:00:00 -0700</lastBuildDate>
+    <image>
+      <url>/img/portrait1</url>
+      <title>Affective</title>
+      <link>/tags/affective/</link>
+    </image>
+    
+    <item>
+      <title>Empathy in Interactive Agents</title>
+      <link>/project/empathy/</link>
+      <pubDate>Sat, 04 Apr 2020 00:00:00 -0700</pubDate>
+      <guid>/project/empathy/</guid>
+      <description>&lt;p&gt;Empathy, as the capacity to relate another’s emotional state, is a complex socio-emotional behavior that requires the interaction of high and low level cognitive behavior. Studies conducted so far showed agents with the ability of showing empathy lead to more trust , increased the length of interaction, help coping with stress and frustration, and increase engagement. Such a capability for computational systems would enhance the social interaction in educational applications, training environments, artificial companions, medical assistants and gaming applications, where initiating and maintaining a social interaction is of great importance.&lt;/p&gt;
+&lt;p&gt;In this research, we aim to develop a computational model of empathy to be used in artificial agents that are capable of multimodal interaction and implement it in an embodied conversational agent. We will be focusing on the body of work generated in psychology and neuroscience studies and ground our model on biologically inspired mechanisms. Such a mechanism for computational systems would enhance the interactive systems such as educational applications (tutoring systems), medical assistants, companions (dialogue systems), psychotherapy applications, gaming applications where social capabilities is of great importance. Furthermore, the capability of empathy may be used to reduce the cognitive bias in datasets and aid moral judgment in AI systems.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Affective Computing</title>
+      <link>/project/affective-computing/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 -0700</pubDate>
+      <guid>/project/affective-computing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

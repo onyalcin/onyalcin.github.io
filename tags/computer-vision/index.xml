@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>computer vision | ÖNY</title>
+    <link>/tags/computer-vision/</link>
+      <atom:link href="/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    <description>computer vision</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Jun 2020 00:00:00 -0700</lastBuildDate>
+    <image>
+      <url>/img/portrait1</url>
+      <title>computer vision</title>
+      <link>/tags/computer-vision/</link>
+    </image>
+    
+    <item>
+      <title>Empathic AI Painter: A Computational Creativity System with Embodied Conversational Interaction</title>
+      <link>/publication/neurips2019/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 -0700</pubDate>
+      <guid>/publication/neurips2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

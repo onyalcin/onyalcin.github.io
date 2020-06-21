@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Kadir | ÖNY</title>
+    <link>/authors/a-kadir/</link>
+      <atom:link href="/authors/a-kadir/index.xml" rel="self" type="application/rss+xml" />
+    <description>A Kadir</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 01 Sep 2017 00:00:00 -0700</lastBuildDate>
+    <image>
+      <url>/img/portrait1</url>
+      <title>A Kadir</title>
+      <link>/authors/a-kadir/</link>
+    </image>
+    
+    <item>
+      <title>Embodied Interactions with a Sufi Dhikr Ritual: Negotiating Privacy and Transmission of Intangible Cultural Heritage in Virtual Sama</title>
+      <link>/publication/eva2017-anon/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 -0700</pubDate>
+      <guid>/publication/eva2017-anon/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

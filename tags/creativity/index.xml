@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>creativity | ÖNY</title>
+    <link>/tags/creativity/</link>
+      <atom:link href="/tags/creativity/index.xml" rel="self" type="application/rss+xml" />
+    <description>creativity</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Jun 2020 00:00:00 -0700</lastBuildDate>
+    <image>
+      <url>/img/portrait1</url>
+      <title>creativity</title>
+      <link>/tags/creativity/</link>
+    </image>
+    
+    <item>
+      <title>Empathic AI Painter: A Computational Creativity System with Embodied Conversational Interaction</title>
+      <link>/publication/neurips2019/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 -0700</pubDate>
+      <guid>/publication/neurips2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI Creativity</title>
+      <link>/project/ai_creativity/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 -0700</pubDate>
+      <guid>/project/ai_creativity/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

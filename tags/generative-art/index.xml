@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>generative art | ÖNY</title>
+    <link>/tags/generative-art/</link>
+      <atom:link href="/tags/generative-art/index.xml" rel="self" type="application/rss+xml" />
+    <description>generative art</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 27 Apr 2020 00:00:00 -0700</lastBuildDate>
+    <image>
+      <url>/img/portrait1</url>
+      <title>generative art</title>
+      <link>/tags/generative-art/</link>
+    </image>
+    
+    <item>
+      <title>AI Creativity</title>
+      <link>/project/ai_creativity/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 -0700</pubDate>
+      <guid>/project/ai_creativity/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

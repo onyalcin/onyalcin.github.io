@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI | ÖNY</title>
+    <link>/tags/ai/</link>
+      <atom:link href="/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <description>AI</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 27 Apr 2017 00:00:00 -0700</lastBuildDate>
+    <image>
+      <url>/img/portrait1</url>
+      <title>AI</title>
+      <link>/tags/ai/</link>
+    </image>
+    
+    <item>
+      <title>Affective Computing</title>
+      <link>/project/affective-computing/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 -0700</pubDate>
+      <guid>/project/affective-computing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
